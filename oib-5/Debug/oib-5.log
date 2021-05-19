@@ -1,0 +1,12 @@
+﻿  oib-5.cpp
+C:\Users\магазин\source\repos\oib-5\oib-5\oib-5.cpp(12,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\магазин\source\repos\oib-5\oib-5\oib-5.cpp(15,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\магазин\source\repos\oib-5\oib-5\oib-5.cpp(35,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\магазин\source\repos\oib-5\oib-5\oib-5.cpp(54,34): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\магазин\source\repos\oib-5\oib-5\oib-5.cpp(76,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\магазин\source\repos\oib-5\oib-5\oib-5.cpp(98,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\магазин\source\repos\oib-5\oib-5\oib-5.cpp(100,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\магазин\source\repos\oib-5\oib-5\oib-5.cpp(113,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\магазин\source\repos\oib-5\oib-5\oib-5.cpp(129,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\магазин\source\repos\oib-5\oib-5\oib-5.cpp(132,23): warning C4018: <: несоответствие типов со знаком и без знака
+  oib-5.vcxproj -> C:\Users\магазин\source\repos\oib-5\Debug\oib-5.exe
